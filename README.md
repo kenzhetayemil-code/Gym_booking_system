@@ -15,7 +15,7 @@
 | **25B031167** | **Bekzhan Aidar** | **Frontend & UI/UX** | Responsive schedule interface, capacity progress bars, modal flows |
 | **25B032098** | **Damir Kabidulin** | **Database & Backup** | Relational schema design, SQLite engine, automated disaster recovery backups |
 | **25B032080** | **Amirlan Akhmetzhan** | **QA & Hardware** | Acceptance testing (`TC-01`), QR code ticket generator, reception check-in |
-
+| **24B030053** | **kenzhetay emil** | **Authentication & System Integration** | database connection, password hashing, input validation |
 ---
 
 ## 🎯 Project Overview & Problem Solved
